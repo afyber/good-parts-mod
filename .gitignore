@@ -1,7 +1,10 @@
 # IDEA
 .idea/
 
+# Gradle
+.gradle/
+settings.gradle
+
 # General
 build/
 run/
-.gradle/

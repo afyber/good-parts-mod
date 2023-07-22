@@ -3,7 +3,7 @@
 This mod exists because I was feeling nostalgic.
 
 The Good Parts Mod ~~allows you~~ (will allow you) to remove or customize almost any feature, mob, or structure added to Minecraft
- since the glory days of 1.7.10, all through the configuration file. However, it is current a work-in-progress.
+ since the glory days of 1.7.10, all through the configuration file. However, it is currently a work-in-progress.
 
 ## Features
 
