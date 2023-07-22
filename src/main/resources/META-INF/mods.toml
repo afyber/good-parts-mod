@@ -1,0 +1,27 @@
+modLoader="javafml"
+loaderVersion="[45,)"
+
+license="MIT"
+showAsResourcePack=false
+
+[[mods]]
+  modId="goodparts"
+  version="0.1"
+  displayName="The Good Parts Mod"
+  authors="afyber"
+  description="Lets you pick and choose which features you want enabled, control what kinds of mobs spawn, and more!"
+  displayTest="IGNORE_SERVER_VERSION"
+
+[[dependencies.goodparts]]
+  modId="forge"
+  mandatory=true
+  versionRange="[45,)"
+  ordering="NONE"
+  side="BOTH"
+
+[[dependencies.goodparts]]
+  modId="minecraft"
+  mandatory=true
+  versionRange="[1.19,1.19.4]"
+  ordering="NONE"
+  side="BOTH"

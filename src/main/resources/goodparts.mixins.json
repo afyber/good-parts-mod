@@ -1,0 +1,13 @@
+{
+  "required": true,
+  "package": "afyber.goodparts.mixin",
+  "compatibilityLevel": "JAVA_17",
+  "refmap": "goodparts.refmap.json",
+  "mixins": [
+    "MixinPhantomSpawner",
+    "MixinZombie"
+  ],
+  "client": [
+  ],
+  "minVersion": "0.8"
+}

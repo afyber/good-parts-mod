@@ -1,0 +1,7 @@
+# IDEA
+.idea/
+
+# General
+build/
+run/
+.gradle/
